@@ -1,4 +1,9 @@
 ### olá eu sou o caique 👋
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/@kaka-caique)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://facebook.com/caiquefernandes )<br>
+
+
 ![caiquePR GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquePR&show_icons=true&theme=radical)
 ## Tecnologias que eu uso no meu dia 
 
