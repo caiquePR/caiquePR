@@ -8,3 +8,6 @@
 <img style="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img style="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div><br>
+Tecnologia é minha paixão, estudo não só como um meio proficional mas tambem por praser e diverção.<br>
+
+## E-mail:  caique.silva.santos.fernades@gmail.com
